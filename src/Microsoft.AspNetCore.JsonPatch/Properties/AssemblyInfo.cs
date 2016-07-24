@@ -9,3 +9,14 @@ using System.Resources;
 [assembly: AssemblyCompany("Microsoft Corporation.")]
 [assembly: AssemblyCopyright("© Microsoft Corporation. All rights reserved.")]
 [assembly: AssemblyProduct("Microsoft ASP.NET Core")]
+
+/* project.json comments here:
+
+  "libraries": {
+    "Newtonsoft.Json/9.2.0-beta1": {
+      "type": "project",
+      "path": "../../Newtonsoft.Json/src/Newtonsoft.Json/project.json"
+    }
+  },
+
+*/
